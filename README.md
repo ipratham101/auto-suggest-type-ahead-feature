@@ -1,4 +1,4 @@
-# Auto Suggest Type-Ahead Feature
+# Auto suggest type-ahead feature
 
 ## Overview
 i used c++ to complete the assignment, using the TRIE data structure. Visual Studio was used to automate test cases using the gtest library.
